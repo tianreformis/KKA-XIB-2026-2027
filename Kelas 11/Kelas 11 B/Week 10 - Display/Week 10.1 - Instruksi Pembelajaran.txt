@@ -1,0 +1,17 @@
+Javascript DOM (Document Object Manipulation).
+
+Javascript, bisa mengenali isi sebuah dokumen dan memanipulasinya.
+
+setter and getter
+setter, mengubah data dokumen.
+	document.InnerHTML.
+getter, mengambil data dokumen.
+	documentgetelementbyId.
+	
+
+Div, divider {pemisah}
+
+Tugas : 
+1. Buatlah sebuah desain login (SignIn, SignUp, ForgotPassword,Menu).
+2. Desain dibuat didalam kertas, nanti akan diimplementasikan kedalam code.
+

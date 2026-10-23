@@ -1,0 +1,52 @@
+body {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+}
+.input-layout {
+    display : flex;
+    flex-direction:column;
+    gap :2vw;
+    max-width: 50vw;
+    background-color: bisque;
+    justify-content: center;
+    align-items: center;
+    width: 50vw; 
+    height: 20vh; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.button-layout {
+    margin-top : 2vh;
+    display : flex;
+    flex-direction:row;
+    gap :2vh;
+    max-width: 50vw;
+    justify-content: center;
+    align-items: center;
+}
+
+#number1, #number2 {
+    border: 1px solid  black;
+    border-radius: 5px;
+    padding: 10px;
+    width: 20vw;
+}
+#number1::placeholder, #number2::placeholder{
+    font-size: 10px;
+}
+
+#tambah,#kurang,#kali,#bagi {
+    border: 1px solid  black;
+    border-radius: 5px;
+    padding: 10px;
+    width: 5vw;
+    background-color: beige;
+    transition: background-color 0.3s ease;
+}
+#tambah:hover,#kurang:hover,#kali:hover,#bagi:hover{
+    background-color: bisque;
+}

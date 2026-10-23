@@ -1,0 +1,19 @@
+Week 5.2 Anchor and Images
+
+Anchor, berpindah antar file html (kertas, untuk pindah lembar), a (double closing tag)
+
+Images, untuk menampilkan gambar, img (single closing tag)
+
+tag, properties, value
+
+<a href="biodata.html">Pindah Ke Biodata</a>
+<img src="owen.jpg" width="200px" height="200px" alt="gambar owen" />
+
+
+Tugas,  file baru, task.html 
+index harus bisa menuju ke task (tambahkan anchor baru)
+tampilkan 10 gambar di task.html setiap gambar berukuran 150*150px (setiap gambar harus beda)
+laki, gambar binatang
+perempuan, gambar bunga
+
+gambar ditampilkan 2 (barisnya) *5 (kolomnya 

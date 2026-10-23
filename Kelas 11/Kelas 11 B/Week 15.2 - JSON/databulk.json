@@ -1,0 +1,29 @@
+[
+    {
+        "nama" : "Acit",
+        "umur" : 20,
+        "alamat" : "Banjarmasin",
+        "tempat_lahir" : "Banjarmasin",
+        "tanggal_lahir" : "01-01-2000",
+        "base_fans" :"MU",
+        "kelas" : "XI B"
+    },
+    {
+        "nama" : "Gwen",
+        "umur" : 20,
+        "alamat" : "Banjarmasin",
+        "tempat_lahir" : "Banjarmasin",
+        "tanggal_lahir" : "01-01-2000",
+        "base_fans" :"Vardrid",
+        "kelas" : "XI B"
+    },
+    {
+        "nama" : "Tian",
+        "umur" : 27,
+        "alamat" : "Lamandau",
+        "tempat_lahir" : "Lamandau",
+        "tanggal_lahir" : "01-01-1999",
+        "base_fans" :"Vargentina",
+        "kelas" : "00"
+    }
+]

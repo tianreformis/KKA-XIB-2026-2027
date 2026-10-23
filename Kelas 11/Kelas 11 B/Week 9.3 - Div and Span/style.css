@@ -1,0 +1,15 @@
+span#highlight {
+    background-color: yellow;
+    font-weight: bold;
+} 
+
+div.kotak-merah{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+div.kotak-hijau{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}

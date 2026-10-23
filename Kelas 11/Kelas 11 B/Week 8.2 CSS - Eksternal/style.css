@@ -1,0 +1,27 @@
+body {
+    background-color: burlywood;
+}
+
+p {
+    background-color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+p#content{
+    background-color: lightblue;
+    font-weight: normal;
+    text-align: left;
+}
+p#subcontent{
+    background-color: lightgreen;
+    font-weight: normal;
+    text-align: right;
+    color:white
+}
+p#subsubcontent{
+    background-color: lightcoral;
+    font-weight: normal;
+    text-align: justify;
+    color: white;
+}

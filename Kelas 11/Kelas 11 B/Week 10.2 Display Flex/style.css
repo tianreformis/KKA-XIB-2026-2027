@@ -1,0 +1,37 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    align-items: center;
+    justify-content: center;
+    background-color: lightblue;
+
+
+}
+.items {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border : 1px solid black;
+}
+
+.container-indonesia {
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    align-items: center;
+    justify-content: center;
+ background-color: lightblue;
+}
+.merah {
+    width: 300px;
+    height: 100px;
+    background-color: red;
+  
+}
+
+.putih {
+    width: 300px;
+    height: 100px;
+    background-color: white;
+}
