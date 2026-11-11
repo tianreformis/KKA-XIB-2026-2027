@@ -1,0 +1,17 @@
+[
+    {
+        "nama" : "Rizky",
+        "umur" : 20,
+        "alamat" : "Bandung"
+    },
+    {
+        "nama" : "Budi",
+        "umur" : 21,
+        "alamat" : "Bandung"
+    },
+    {
+        "nama" : "Joko",
+        "umur" : 22,
+        "alamat" : "Bandung"
+    }
+]
